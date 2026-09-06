@@ -13,8 +13,8 @@ Now imagine the array contains:
 ```text
 10 elements
 1,000 elements
-1,000,000 elements (10m)
-100,000,000 elements (100m)
+1,000,000 elements (1m)
+100,000,000 elements (10m)
 ```
 
 The important question isn't:
