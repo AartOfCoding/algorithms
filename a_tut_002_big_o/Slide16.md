@@ -1,8 +1,6 @@
 
 # What Big O does NOT tell you
 
-This is important to mention in your video.
-
 Big O does **not** directly tell you:
 
 ```text
